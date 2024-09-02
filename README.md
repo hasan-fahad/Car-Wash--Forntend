@@ -1,6 +1,6 @@
 # Car Wash
 
-## Live link - [Car- Wash](https://aqua-clean.vercel.app/)
+## Live link - [Car- Wash](https://car-wash-frontend-seven.vercel.app/)
 
 ## 🔗 Server side repository - [car-wash-backend](https://github.com/hasan-fahad/Car-Wash-Backend)
 
