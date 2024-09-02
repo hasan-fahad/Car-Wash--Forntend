@@ -41,7 +41,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-git clone https://github.com/sakibsarkar/car-wash-frontend
+git clone https://github.com/hasan-fahad/Car-Wash--Forntend
 
 ```
 
