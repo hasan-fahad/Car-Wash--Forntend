@@ -1,6 +1,6 @@
 # Car Wash
 
-## Live link - [Aqua Clean](https://aqua-clean.vercel.app/)
+## Live link - [Car- Wash](https://aqua-clean.vercel.app/)
 
 ## 🔗 Server side repository - [car-wash-backend](https://github.com/hasan-fahad/Car-Wash-Backend)
 
@@ -41,7 +41,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-git clone https://github.com/hasan-fahad/Car-Wash--Forntend
+git clone https://github.com/hasan-fahad/Car-Wash-Frontend
 
 ```
 
